@@ -18,5 +18,6 @@
 #### 3.1_Univariate :  G1 VS G3 (ADDED OTHER MODELS)
 #### 3.2_Univariate :  Height vs Weight 
 #### 3.3_Univariate :  StudyHours vs Score
-#### Multivariate Classification   : Bank_Churn_Modelling(classification)
+#### Multivariate Classification   : Bank_Churn_Modelling(classification) 
+*Used Multiple models for Multivariate Classification*
 
