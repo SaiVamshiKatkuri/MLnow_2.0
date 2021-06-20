@@ -3,6 +3,7 @@
 
 ## Hey there!! 🖐
 - Reach me out at : saivamshikatkuri2809@gmail.com
+- Linkedin : https://www.linkedin.com/in/katkuri-sai-vamshi-2209281a8/
 <ul>
   <li>
     This is Sai Vamshi Katkuri 😁
